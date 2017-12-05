@@ -1,0 +1,13 @@
+Main files
+C:\CopTraxTest\
+Automation.bat
+Automation.xml
+autorun.xml
+cleanup.bat
+client.cfg
+CopTraxTestClient.exe
+
+..\tmp\
+restart.client.bat
+
+cleanup.bat may have to be copied to "C:\CopTrax Support\Tools\"
